@@ -1,0 +1,24 @@
+
+
+
+/* this is now an annotation */
+
+body{
+    margin-left: 200px; 
+    background-color: darkolivegreen;
+}
+
+.listcat {
+    background-color: beige;
+    font-size: 3rem; 
+    position:sticky; 
+    top:3vh;
+    margin-top: 100px;
+    width: 50%;
+}
+
+h1:hover{
+    color: blueviolet;
+    font-size: 6rem;
+    cursor: grab;
+}
